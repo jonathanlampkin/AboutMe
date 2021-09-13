@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanlampkin
-- 👀 I’m interested in data science, marketing, insurance, and finance. I enjoy developing trading algorithms in my free time and reading public company news.
-- 🌱 I’m currently studying the entire data science pipeline, with a strong interest in machine learning.
+- 👀 I am an aspiring data scientist/researcher/problem-solver.
+- 🌱 I’m currently studying data science through Springboard's Data Science Career Track Bootcamp (Ending December 2021).
 - 💞️ I’m looking for data science internships and collaborative work opportunities.
 - 📫 How to reach me ... email me at jmlampkin@gmail.com
 
