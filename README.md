@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jonathanlampkin
-- 👀 I am an aspiring data scientist/researcher/problem-solver.
-- 🌱 I’m currently studying data science through Springboard's Data Science Career Track Bootcamp (Ending December 2021).
-- 💞️ I’m looking for data science internships and collaborative work opportunities.
+- 👀 I am a data scientist/researcher/problem-solver with over two years of experience in the field.
 - 📫 How to reach me ... email me at jmlampkin@gmail.com
 
 <!---
